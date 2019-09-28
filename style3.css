@@ -1,0 +1,13 @@
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+}
+
+img {  
+	position: absolute;
+	top: 80px;
+	left: 30;
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+}
