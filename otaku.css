@@ -1,0 +1,75 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+#header{
+	float:center;
+	height:50px;
+	text-align:center;
+	background-color:red;
+	margin-left:150px;
+	margin-right:150px;
+	font-size: 40px;
+	
+
+
+
+}
+
+
+#potato{
+	float:left;
+	height:50px;
+	
+	background-color:pink;
+	/*margin-left:150px;*/
+	/*margin-right:800px;*/
+	padding:0px;
+	font-size: 15px;
+	width:37.75%;
+	margin-left: 150px;
+
+}
+
+#cars{
+float:left;
+height:50px;
+
+background-color:orange;
+padding:0px;
+font-size: 15px;
+width:37.75%;
+
+
+}
+
+#old_rusty{
+	float:center;
+	background-color:blue;
+	display: flex;
+	
+	height:420px;
+	margin-left:150px;
+	margin-right:150px;
+	
+	
+	
+}
+
+
+
+#cow{
+	float:center;
+	background-color:yellow;
+	display: flex;
+	
+	
+	margin-left:150px;
+	margin-right:150px;
+}
+
+
+.clearfix{
+    clear:both
+}

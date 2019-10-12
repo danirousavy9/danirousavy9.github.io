@@ -1,0 +1,45 @@
+body{
+	color:black;
+	background-color:green;
+	padding-top:10px;
+
+}
+
+ 
+ #square1{
+	 float:left;
+      width: 250px;
+      height: 250px;
+      background-color: blue;
+	  margin-left: 150px;
+	  margin-top: 50px;
+  
+
+
+}
+
+ #square2{
+	 float:right;
+      width: 250px;
+      height: 250px;
+      background-color: red;
+	  margin-right: 150px;
+	  margin-top: 50px;
+
+}
+
+ #square_yellow{
+	  
+      width: 250px;
+      height: 250px;
+      background-color: yellow;
+	  margin: 0 auto;
+	  position: relative;
+	  top:400px;
+	 
+	  
+	 
+	  
+}
+
+
