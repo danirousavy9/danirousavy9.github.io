@@ -1,0 +1,175 @@
+
+h1{
+	color:red;
+	font-weight:bold;
+  font-style:normal;
+  font-size: 90px;
+  text-transform: uppercase;
+
+
+}
+
+
+h2{
+	color:brown;
+	font-weight:bold;
+  font-style:normal;
+  font-size: 60px;
+  text-transform: capitalize;
+}
+
+h3{
+	color:yellow;
+	font-weight:bold;
+  font-style:normal;
+  font-size: 50px;
+  text-transform: capitalize;
+
+
+}
+
+p{
+	color:green;
+	font-style:italic;
+}
+
+
+p{
+	color:green;
+	font-style:italic;
+
+}
+h1{
+	color:red;
+	font-weight:bold;
+}
+
+
+.common{
+  font-size: 40px
+
+}
+
+.first{
+  background-color:orange;
+  position:absolute;
+
+
+
+}
+
+.second{
+  background-color:green;
+  position:relative;
+  left:89px
+
+
+}
+
+.third{
+  background-color:blue;
+  position:static;
+fixed
+
+
+}
+
+
+  {position:relative;
+  top: 30px;
+  background-color:pink;
+}
+
+
+.a
+
+  {position:absolute;
+
+border-bottom-width: thick: 50px;
+  background-color:green;
+}
+
+
+div{
+
+background-color:purple;
+  margin:80px;
+  min-height:60px;
+  border: 10px dashed:blue;
+
+
+
+}
+
+body{
+	color:black;
+	background-color:lightblue;
+	padding-top:10px;
+
+}
+
+
+ #square1{
+	 float:left;
+      width: 250px;
+      height: 250px;
+      background-color: blue;
+	  margin-left: 150px;
+	  margin-top: 0px;
+}
+
+
+  #cars{
+  float:left;
+  height:50px;
+
+  background-color:orange;
+  padding:0px;
+  font-size: 15px;
+  width:37.75%;
+
+
+  }
+
+  #old_rusty{
+  	float:center;
+  	background-color:blue;
+  	display: flex;
+
+  	height:420px;
+  	margin-left:150px;
+  	margin-right:150px;
+
+
+
+  }
+
+
+
+  #cow{
+  	float:center;
+    top:50px;
+  	background-color:yellow;
+  	display: flex;
+
+
+  	margin-left:500px;
+  	margin-right:150px;
+  }
+
+
+  .clearfix{
+      clear:both
+  }
+
+
+#boxmodel
+div {
+top:180px;
+position:absolute;
+  width: 20px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+  background-color: orange;
+}
